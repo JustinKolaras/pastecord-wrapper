@@ -5,14 +5,14 @@
 ---
 #### npm
 ```
-$ npm i pastecord
+$ npm i pastecord-wrapper
 ```
 
 ### Usage
 ---
 Construct a new client and await `client.publish`:
 ```js
-const Pastecord = require("pastecord");
+const Pastecord = require("pastecord-wrapper");
 
 const client = new Pastecord();
 
