@@ -1,5 +1,5 @@
 {
-    "name": "pastecord",
+    "name": "pastecord-wrapper",
     "version": "1.0.0",
     "description": "A Pastecord API wrapper.",
     "main": "api/class.js",

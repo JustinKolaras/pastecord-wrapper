@@ -3,7 +3,7 @@ const axios = require("axios");
 const REQUEST_URL = "https://pastecord.com/documents";
 const DOC_URL = "https://pastecord.com/";
 
-module.exports = class PastecordAPI {
+module.exports = class PastecordWrapper {
     async publish(body) {
         let result;
         try {
