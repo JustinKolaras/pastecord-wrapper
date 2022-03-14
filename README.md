@@ -18,6 +18,9 @@ $ npm i pastecord-wrapper
 
 Construct a new client and use `client.publish` to create a new document.
 
+=======
+Construct a new client and use `client.publish` to create a new document.
+
 ```js
 const Pastecord = require("pastecord-wrapper");
 const Client = new Pastecord();
@@ -31,7 +34,11 @@ const Client = new Pastecord();
 
 ### Mini-Docs
 
+<<<<<<< HEAD
+
 ---
+
+## =======
 
 `Client.publish(body: any)`
 
@@ -52,10 +59,16 @@ Object {
 
 ---
 
+<<<<<<< HEAD
+
+=======
 @ Justin K. (Aerosphia)
 
 ### License
 
 ---
 
+<<<<<<< HEAD
+
+=======
 MIT License
