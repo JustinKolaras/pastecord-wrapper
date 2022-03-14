@@ -1,6 +1,6 @@
 {
-    "name": "pastecord-wrapper",
-    "version": "1.1.4",
+    "name": "pastecord",
+    "version": "2.0.0",
     "description": "A Pastecord API wrapper.",
     "main": "api/class.js",
     "repository": {
