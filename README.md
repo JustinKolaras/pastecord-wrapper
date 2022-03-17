@@ -1,4 +1,4 @@
-# pastecord-wrapper
+# pastecord
 
 #### A [Pastecord](https://pastecord.com/) API wrapper for uploading documents.
 
@@ -9,7 +9,7 @@
 #### npm
 
 ```
-$ npm i pastecord-wrapper
+$ npm i pastecord
 ```
 
 ### Usage
@@ -19,7 +19,7 @@ $ npm i pastecord-wrapper
 Construct a new client and use `client.publish` to create a new document.
 
 ```js
-const Pastecord = require("pastecord-wrapper");
+const Pastecord = require("pastecord");
 const Client = new Pastecord();
 
 (async () => {
