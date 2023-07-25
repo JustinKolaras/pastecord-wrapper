@@ -31,8 +31,6 @@ const Client = new Pastecord();
 
 ### Mini-Docs
 
----
-
 ##
 
 `Client.publish(body: any)`
@@ -54,7 +52,7 @@ Object {
 
 ---
 
-@ Justin K. (Aerosphia)
+@ Justin K.
 
 ### License
 
